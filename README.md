@@ -1,4 +1,4 @@
-##Data Structures and Algorithm
+## Data Structures and Algorithms
 
 **Here there will be all codes of DSA topics covered in cpp necessary for placement**
 
