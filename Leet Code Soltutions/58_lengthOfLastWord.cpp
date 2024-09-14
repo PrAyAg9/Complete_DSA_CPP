@@ -1,3 +1,4 @@
+// Beats 100% in time and 80% in Memory Let's GO.
 class Solution {
 public:
     int lengthOfLastWord(string s) {
