@@ -1,6 +1,6 @@
 ## Data Structures and Algorithms
 
-**Here there will be all codes of DSA topics covered in cpp necessary for placement**
+**Feel free to make changes and pull a request, Here there will be all codes of DSA topics covered in cpp necessary for placement**
 
 ```bash
 Work in Progress.
