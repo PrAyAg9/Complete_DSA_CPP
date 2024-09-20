@@ -41,6 +41,9 @@ git push origin your-branch-name
 ```
 8. Submit a Pull Request: Go to the original repository and submit a pull request. Describe your changes in detail, and link any related issues.
 
-```bash
-## THANK YOU
+```markdown
+---
+  THANK YOU
+---
 ```
+
