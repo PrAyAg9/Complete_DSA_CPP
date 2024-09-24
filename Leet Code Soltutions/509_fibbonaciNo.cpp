@@ -34,4 +34,6 @@ public:
         return fib(n, dp);
     }
 };
-
+// So how does this memorization works -- first we intiate two parameters with this function and only thing we don't do here is to recompute the value once donne
+// so if you have drawn the revursion tree then you must know that in revurstion it recompute the values a lot and more larger dataset it could be a mental pain
+// to do that again and again.
