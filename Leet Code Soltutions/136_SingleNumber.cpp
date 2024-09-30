@@ -1,0 +1,11 @@
+// Beats 100% of solutions.
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int result = 0;
+        for (int num : nums) {
+            result ^= num;  // XOR each number
+        }
+        return result;
+    }
+};
